@@ -1,5 +1,60 @@
 # questoes_assembly
-Questoes de nasm x_86_64 realizadas na materia de MATA49
+Atividade1 - 
+Q1.1- Elabore o seguinte código utilizando “syscall”:
+● Pergunte o Nome do aluno;
+● Imprima "Nome é bem-vindo(a) ao semestre da disciplina de PSB"
+Q1.2- Elabore um código que receba uma letra minúscula e retorna como
+saída a letra maiúscula.
+Verificar tabela ASCII
+Q1.3 - Elabore um código que receba uma string e imprima as 3 primeiras
+letras de uma string.
+
+Q1.4- Elabore um código que receba dois números e imprima o resultado
+da soma (valor numérico) - não utilizar printf/scanf.
+-----------------------------------------------------------------
+Atividade2 - 
+Q2.1- Elabore um código que leia um nome e uma letra. O código deve
+imprimir a primeira e última letra do nome e dizer se encontrou ou não a
+letra no nome.
+Q2.2- Elabore um código que leia a idade de uma pessoa expressa em
+anos, meses e dias e escreva a idade dessa pessoa expressa apenas
+em dias.
+Considerar ano com 365 dias e mês com 30 dias.
+Q2.3- Elabore um código que receba uma string e imprima.
+● “Qtd de letras PAR” - se a quantidade de letras for PAR
+● “Qtd de letras ÍMPAR” - se a quantidade de letras for ÍMPAR
+-------------------------------------------------------------
+Atividade3 - 
+Q3.1- Elabore um código que leia a altura de 4 pessoas e retorne a
+média dos valores recebidos.
+*obs: utilizar ponto flutuante
+--------------------------------------------
+Atividade4 -
+Q4.1- Escreva um programa em assembly que leia três números inteiros,
+calcule a média aritmética, a média geométrica e a média harmônica e
+escreva os números lidos e as médias calculadas.
+As médias devem ser escritas em C.
+- média aritmética
+- média geométrica
+- média harmônica
+-------------------------------------------
+Atividade5 - 
+Q5.1- Crie macros single-line para as seguintes operações:
+a. x²
+b. x³
+c. (2*x)+y
+d. ((4+x)*y)/z
+Q5.2-Refacção do código utilizando macros.
+Utilizando macros, crie um código que verifique se o total de
+caracteres de uma string é par ou ímpar.
+---------------------------------------------------
+
+
+
+
+
+
+#Questoes de nasm x_86_64 do trabalho final 
 1- Escreva um programa em Assembly que calcule a
 área do círculo, o programa deve permitir ao usuário
 escolher se a entrada é o raio ou o diâmetro. OBS:
